@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Allow: /public/
+
+User-agent: Cision
+Disallow: /
+
+User-agent: Talkwater
+Disallow: /
+
+
+Sitemap: https://www.monsite.com/sitemap.xml
